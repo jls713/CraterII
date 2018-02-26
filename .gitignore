@@ -1,0 +1,7 @@
+*.dat
+*.pyc
+*.pkl
+.ipynb_checkpoints/*
+plots/*.pdf
+plots/*.png
+*-checkpoint.ipynb
